@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>rmb101</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-05-01T07:24:20.035Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>web</title>
+    <link href="http://example.com/2023/05/01/web/"/>
+    <id>http://example.com/2023/05/01/web/</id>
+    <published>2023-05-01T07:13:11.000Z</published>
+    <updated>2023-05-01T07:24:20.035Z</updated>
+    
+    
+    
+    
+    <category term="安全" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8/"/>
+    
+    
+    <category term="web" scheme="http://example.com/tags/web/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo设定</title>
+    <link href="http://example.com/2023/05/01/hexo%E8%AE%BE%E5%AE%9A/"/>
+    <id>http://example.com/2023/05/01/hexo%E8%AE%BE%E5%AE%9A/</id>
+    <published>2023-05-01T06:49:49.203Z</published>
+    <updated>2023-05-01T08:50:40.583Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="title添加博文标题"><a href="#title添加博文标题" class="headerlink" title="title添加博文标题"></a>title添加博文标题</h1><h1 id="categories添加博文分类"><a href="#categories添加博文分类" class="headerlink" title="categories添加博文分类"></a>categories添加博文分类</h1><h1 id="tags添加博文标签"><a href="#tags添加博文标签" class="headerlink" title="tags添加博文标签"></a>tags添加博文标签</h1><h1 id="通过如下字段-Hexo会自动添加博文分类和博文标签的相关配置"><a href="#通过如下字段-Hexo会自动添加博文分类和博文标签的相关配置" class="headerlink" title="通过如下字段,Hexo会自动添加博文分类和博文标签的相关配置"></a>通过如下字段,Hexo会自动添加博文分类和博文标签的相关配置</h1><h1 id="冒号后面带空格"><a href="#冒号后面带空格" class="headerlink" title="冒号后面带空格"></a>冒号后面带空格</h1><p><img src="https://cdn.jsdelivr.net/gh/rmb010/dachui_img/typora-icon.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;title添加博文标题&quot;&gt;&lt;a href=&quot;#title添加博文标题&quot; class=&quot;headerlink&quot; title=&quot;title添加博文标题&quot;&gt;&lt;/a&gt;title添加博文标题&lt;/h1&gt;&lt;h1 id=&quot;categories添加博文分类&quot;&gt;&lt;a href=&quot;#c</summary>
+      
+    
+    
+    
+    <category term="用法" scheme="http://example.com/categories/%E7%94%A8%E6%B3%95/"/>
+    
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2023/04/29/hello-world/"/>
+    <id>http://example.com/2023/04/29/hello-world/</id>
+    <published>2023-04-29T11:49:55.025Z</published>
+    <updated>2023-05-01T07:01:06.075Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
