@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-05-02T02:53:14.426Z</updated>
+  <updated>2023-05-05T02:48:35.086Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>进阶靶场</title>
+    <link href="http://example.com/2023/05/05/%E8%BF%9B%E9%98%B6%E9%9D%B6%E5%9C%BA/"/>
+    <id>http://example.com/2023/05/05/%E8%BF%9B%E9%98%B6%E9%9D%B6%E5%9C%BA/</id>
+    <published>2023-05-05T02:47:01.000Z</published>
+    <updated>2023-05-05T02:48:35.086Z</updated>
+    
+    <content type="html"><![CDATA[<p>SQl注入<br>sqli-lab (前6关是基础关卡，后面的关卡是高级关卡(过滤绕过)，需要自己去研究)<br><a href="https://5ime.cn/sqli-labs.html">https://5ime.cn/sqli-labs.html</a><br>文件上传<br>upload-labs 全21关<br><a href="https://5ime.cn/upload-labs.html">https://5ime.cn/upload-labs.html</a><br>XSS<br>XSS 挑战之旅<br><a href="https://pan.baidu.com/s/1I54ZBYOHujP2WZdtcjNfGw">https://pan.baidu.com/s/1I54ZBYOHujP2WZdtcjNfGw</a> 提取码：xqbh<br>XSS Demo<br>题目网址：<a href="https://xss.haozi.me/">https://xss.haozi.me/</a><br>项目地址：<a href="https://github.com/haozi/xss-demo">https://github.com/haozi/xss-demo</a> ，自己搭建<br>渗透靶机<br>DC系列 <a href="https://www.five86.com/downloads/">https://www.five86.com/downloads/</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;SQl注入&lt;br&gt;sqli-lab (前6关是基础关卡，后面的关卡是高级关卡(过滤绕过)，需要自己去研究)&lt;br&gt;&lt;a href=&quot;https://5ime.cn/sqli-labs.html&quot;&gt;https://5ime.cn/sqli-labs.html&lt;/a&gt;&lt;br&gt;文</summary>
+      
+    
+    
+    
+    <category term="网安" scheme="http://example.com/categories/%E7%BD%91%E5%AE%89/"/>
+    
+    
+    <category term="靶场" scheme="http://example.com/tags/%E9%9D%B6%E5%9C%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>借阅书单</title>
